@@ -10,9 +10,14 @@ int Promt(string messege)
     return Convert.ToInt32(Console.ReadLine());
 }
 
+int Square(int number)
+{
+    return number * number;
+}
+
 double GetDistance(int x1, int y1, int z1, int x2, int y2, int z2)
 {
-    return Math.Sqrt((x2 - x1) * (x2 - x1) + (y2 - y1) * (y2 - y1) + (z2 - z1) * (z2 - z1));
+    return Math.Sqrt(Square(x2 - x1) + Square(y2 - y1) + Square(z2 - z1));
 }
  
 int Ax = Promt("Введите координату точки А по оси х");
@@ -23,4 +28,3 @@ int By = Promt("Введите координату точки B по оси y")
 int Bz = Promt("Введите координату точки B по оси z");
 double distanceAB = GetDistance(Ax, Ay, Az, Bx, By, Bz);
 System.Console.WriteLine($"Расстояние между точками А и В в 3D пространстве равно {distanceAB:f2}");
-
