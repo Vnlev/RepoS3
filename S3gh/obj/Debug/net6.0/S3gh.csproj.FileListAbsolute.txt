@@ -1,0 +1,15 @@
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.csproj.AssemblyReference.cache
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.GeneratedMSBuildEditorConfig.editorconfig
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.AssemblyInfoInputs.cache
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.AssemblyInfo.cs
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.csproj.CoreCompileInputs.cache
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\bin\Debug\net6.0\S3gh.exe
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\bin\Debug\net6.0\S3gh.deps.json
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\bin\Debug\net6.0\S3gh.runtimeconfig.json
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\bin\Debug\net6.0\S3gh.dll
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\bin\Debug\net6.0\S3gh.pdb
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.dll
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\refint\S3gh.dll
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.pdb
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\S3gh.genruntimeconfig.cache
+E:\А. КУРС\Курс Разработчик\S3Repo\S3GHub\S3gh\obj\Debug\net6.0\ref\S3gh.dll
